@@ -6,10 +6,13 @@ email: ngzhio@gmail.com
 
 plugins:
   - jekyll-theme-hamilton
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+
+remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
