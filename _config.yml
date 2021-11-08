@@ -2,7 +2,7 @@ title: Michalchuk
 description: .
 author: Adam Michalchuk
 avatar: /logo.png
-email: adam.michalchuk (at) bam.de
+email: adam.michalchuk(at)bam.de
 
 plugins:
   - jekyll-theme-hamilton
@@ -36,7 +36,7 @@ exclude:
 twitter:
   username: amichalchuk
   card: summary
-logo: logo.png
+logo: 20211108_092040.jpg
 social:
   name: Adam Michalchuk
   links:
