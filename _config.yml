@@ -1,8 +1,8 @@
-title: 
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: A Michalchuk
+title: Michalchuk
+description: .
+author: Adam Michalchuk
 avatar: /logo.png
-email: adam.michalchuk@
+email: adam.michalchuk (at) bam.de
 
 plugins:
   - jekyll-theme-hamilton
