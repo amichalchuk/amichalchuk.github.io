@@ -4,6 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+37. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
+
+36. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
+
+35. <a href="https://www.nature.com/articles/s41467-021-24165-x">High-pressure reversibility in a plastically flexible coordination polymer crystal </a> <br> X Liu, <b>AAL Michalchuk</b>, B Bhattacharya, F Emmerling, and CR Pulham. 2021, Nature Commun., 12, 3871
+
+34. <a href="https://internal-journal.frontiersin.org/articles/10.3389/fchem.2021.685789/full">Tribochemistry, mechanical alloying, mechanochemistry: what is in a name? </a> <br> <b>AAL Michalchuk</b>, EV Boldyreva, AM Belenguer, F Emmerling, and VV Boldyrev. 2021, Front. Chem., 9, 685789
+
+33. <a href="https://aip.scitation.org/doi/full/10.1063/5.0036927">Predicting the impact sensitivities of energetic materials through zone-center phonon up-pumping </a> <br> <b>AAL Michalchuk</b>, J Hemingway, and CA Morrison. 2021, J. Chem. Phys., 154, 064105
+
 32. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/ce/d1ce00642h">Tuning the mechanical flexibility of organic molecular crystals by polymorphism for flexible optical waveguides </a> <br> T Feiler, B Bhattacharya, <b>AAL Michalchuk</b>, S-Y Rim, V Schroder, E List-Kratochvil, and F Emmerling. 2021, CrystEngComm, 23, 5815-5825
 
 31. <a href="https://www.frontiersin.org/articles/10.3389/fchem.2021.726357/full">Towards Computational Screening for New Energetic Molecules: Calculation of Heat of Formation and Determination of Bond Strengths by Local Mode Analysis </a> <br> IL Christopher, <b>AAL Michalchuk</b>, CR Pulham, and CA Morrison. 2021, Front. Chem., 9, 726357
