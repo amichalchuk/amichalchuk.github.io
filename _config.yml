@@ -5,6 +5,7 @@ avatar: /logo.png
 email: ngzhio@gmail.com
 
 plugins:
+  - jekyll-theme-hamilton
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
