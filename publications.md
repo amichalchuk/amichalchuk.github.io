@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 
+7. <a href="https://pubs.rsc.org/en/content/articlehtml/2018/ce/c7ce02221b">Polymorphism of chlorpropamide on liquid-assisted mechanical treatment: choice of liquid and type of mechanical treatment matter
+</a> <br> N Bouvart, R-M Palix, SG Arkhipov, IA Tumanov, <b>AAL Michalchuk</b>, and EV Boldyreva.  2018 CrystEngComm, 20, 1797-1803
+
+
 6. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201700132">Challenges of Mechanochemistry: Is In Situ Real‐Time Quantitative Phase Analysis Always Reliable? A Case Study of Organic Salt Formation
 </a> <br> <b>AAL Michalchuk</b>, IA Tumanov, S Konar, SAJ Kimber, CR Pulham, and EV Boldyreva.  2017 Adv. Sci., 4(9), 1700132
 
