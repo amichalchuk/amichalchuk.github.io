@@ -2,7 +2,9 @@ The ISIS Neutron and Muon Facility has highlighted our recent work on <a href="h
 
 <figure>
    <a href="https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc03906g">
-   <img src="<img src="{{site.baseurl}}/assets/fox7.png">>
+   <img src="<img src="{{site.baseurl}}/assets/fox7.png" style="max-width: 50px;" 
+       alt="{{ include.alt }}"/>
    </a>
    <figcaption>"Different crystal structures of energetic materials have different sensitivity to mechanical impact, for example from a hammer strike. However, when struck, the crystal structure of FOX-7 changes, making experimental measurements of sensitivity difficult. This highlights the importance of developing robust theoretical strategies to predict the sensitivity of energetic materials. "</figcaption>
 </figure>
+
