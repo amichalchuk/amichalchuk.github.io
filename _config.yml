@@ -14,9 +14,11 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-paginate: 10
+#Layout
 skin: daylight
 show_excerpts: false
+
+paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
