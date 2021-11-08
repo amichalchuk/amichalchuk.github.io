@@ -1,6 +1,9 @@
 - title: Twitter
-  url: https://twitter.com/ngzhio
+  url: https://twitter.com/amichalchuk
   icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
-  icon: fab fa-github
+- title: Researchgate
+  url: https://www.researchgate.net/profile/Adam-Michalchuk
+  icon: fab fa-researchgate
+-title: Google Scholar
+   url: https://scholar.google.com/citations?user=JQE8NLIAAAAJ&hl=en&oi=ao
+   icon: fab fa-google
