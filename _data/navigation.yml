@@ -4,8 +4,8 @@
   url: /research/
 - title: Publications
   url: /publications/
-- title: /news/
-  url: News
+- title: News
+  url: /news/
 #- title: Tags
 #  url: /tags/
 #- title: More
