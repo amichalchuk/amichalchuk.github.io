@@ -16,6 +16,8 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 
 paginate: 10
 
+show_excerpts: false
+
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
 # google_analytics: 
