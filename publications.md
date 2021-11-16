@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+toc : false
 ---
 
 37. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
