@@ -5,11 +5,14 @@ permalink: /publications/
 toc : false
 ---
 
-37. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
+38. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
 
-36. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
+37. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
 
-35. <a href="https://www.nature.com/articles/s41467-021-24165-x">High-pressure reversibility in a plastically flexible coordination polymer crystal </a> <br> X Liu, <b>AAL Michalchuk</b>, B Bhattacharya, F Emmerling, and CR Pulham. 2021, Nature Commun., 12, 3871
+36. <a href="https://www.nature.com/articles/s41467-021-24165-x">High-pressure reversibility in a plastically flexible coordination polymer crystal </a> <br> X Liu, <b>AAL Michalchuk</b>, B Bhattacharya, F Emmerling, and CR Pulham. 2021, Nature Commun., 12, 3871
+
+35. <a href="https://doi.org/10.3390/cryst11111397"> Elastic Flexibility in an Optically Active Naphthalidenimine-Based Single Crystal
+ </a> <br> T Feiler, <b>AAL Michalchuk</b>, V Schroder, E List-Kratochvil, F Emmerling, and B Bhattacharya. 2021, Crystals, 11, 1397
 
 34. <a href="https://internal-journal.frontiersin.org/articles/10.3389/fchem.2021.685789/full">Tribochemistry, mechanical alloying, mechanochemistry: what is in a name? </a> <br> <b>AAL Michalchuk</b>, EV Boldyreva, AM Belenguer, F Emmerling, and VV Boldyrev. 2021, Front. Chem., 9, 685789
 
