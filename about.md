@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <figure>
-   <img src="{{site.baseurl}} 20211108_092040.jpg" style="max-width: 400px;" style="float: left" 
+   <img src="{{site.baseurl}} 20211108_092040.jpg" style="max-width: 400px;"  
        alt="{{ include.alt }}"/>
 </figure>
 
