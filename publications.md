@@ -5,6 +5,10 @@ permalink: /publications/
 toc : false
 ---
 
+40. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520621013299"> FOX-7 high-energy-density material: thermal expansion and phase transitions revisited </a> <br> CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 91-95
+
+39. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202102416">Using Solid catalysts in Disulfide-Based Dynamic Combinatorial Solution- and Mechanochemistry </a> <br> AM Belenguer, <b>AAL Michalchuk</b>, GI Lampronti, and JKM Sanders, 2022, ChemSusChem, DOI:10.1002/cssc.202102416
+
 38. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
 
 37. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
