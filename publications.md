@@ -5,6 +5,8 @@ permalink: /publications/
 toc : false
 ---
 
+40. <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270"> Time-Resolved In Situ Monitoring of Mechanochemical Reactions </a> <br> <b>AAL Michalchuk</b>, F Emmerling. 2022, Angew. Chem. Int. Ed., DOI:10.1002/anie.202117270
+
 39. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520621013299"> FOX-7 high-energy-density material: thermal expansion and phase transitions revisited </a> <br> CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 91-95
 
 38. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202102416">Using Solid catalysts in Disulfide-Based Dynamic Combinatorial Solution- and Mechanochemistry </a> <br> AM Belenguer, <b>AAL Michalchuk</b>, GI Lampronti, and JKM Sanders, 2022, ChemSusChem, DOI:10.1002/cssc.202102416
