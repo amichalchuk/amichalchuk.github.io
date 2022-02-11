@@ -5,8 +5,11 @@ permalink: /JoinUs/
 ---
 
 <b>Currently Funded PhD Opportunities </b> <br>
-Currently there are no open funded positions. We are happy to support students applying for their own funding.
+We are currently seeking a PhD student to start ASAP on a project <b>X-ray analytics and ab initio simulation of energetic materials under extreme conditions <\b>. The project will combine state-of-the-art synchrotron science with ab initio simulation to investigate energetic materials at high pressurs. 
 
+Further details are available and applications can be submitted: https://www.bam.de/umantis/EN/1105.html
+  
+  
 <br><br>
 <b>MSc Topics </b> <br>
 We are happy to support students looking to conduct their MSc thesis research. We are actively pursuing research in the following areas, or are happy to discuss other projects with potential students.
