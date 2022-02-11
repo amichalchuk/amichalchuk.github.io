@@ -5,38 +5,37 @@ permalink: /publications/
 toc : false
 ---
 
-40. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520621013299"> FOX-7 high-energy-density material: thermal expansion and phase transitions revisited </a> <br> CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 91-95
+39. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520621013299"> FOX-7 high-energy-density material: thermal expansion and phase transitions revisited </a> <br> CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 91-95
 
-39. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202102416">Using Solid catalysts in Disulfide-Based Dynamic Combinatorial Solution- and Mechanochemistry </a> <br> AM Belenguer, <b>AAL Michalchuk</b>, GI Lampronti, and JKM Sanders, 2022, ChemSusChem, DOI:10.1002/cssc.202102416
+38. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cssc.202102416">Using Solid catalysts in Disulfide-Based Dynamic Combinatorial Solution- and Mechanochemistry </a> <br> AM Belenguer, <b>AAL Michalchuk</b>, GI Lampronti, and JKM Sanders, 2022, ChemSusChem, DOI:10.1002/cssc.202102416
 
-38. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
+37. <a href="https://www.nature.com/articles/s41467-021-26264-1">Changing the game of time resolved X-ray diffraction on the mechanochemistry playground by downsizing </a> <br> GI Lampronti, <b>AAL Michalchuk</b>, PP Mazzeo, AM Belenguer, JKM Sanders, A Bacchi, and F Emmerling. 2021, Nature Commun., 12, 6134
 
-37. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
+36. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/cc/d1cc03906g">Predicting the impact sensitivity of a polymorphic high explosive: the curious case of FOX-7 </a> <br> <b>AAL Michalchuk</b>, S Rudic, CR Pulham, and CA Morrison. 2021, Chem. Commun., 57, 11213-11216
 
-36. <a href="https://www.nature.com/articles/s41467-021-24165-x">High-pressure reversibility in a plastically flexible coordination polymer crystal </a> <br> X Liu, <b>AAL Michalchuk</b>, B Bhattacharya, F Emmerling, and CR Pulham. 2021, Nature Commun., 12, 3871
+35. <a href="https://www.nature.com/articles/s41467-021-24165-x">High-pressure reversibility in a plastically flexible coordination polymer crystal </a> <br> X Liu, <b>AAL Michalchuk</b>, B Bhattacharya, F Emmerling, and CR Pulham. 2021, Nature Commun., 12, 3871
 
-35. <a href="https://doi.org/10.3390/cryst11111397"> Elastic Flexibility in an Optically Active Naphthalidenimine-Based Single Crystal
+34. <a href="https://doi.org/10.3390/cryst11111397"> Elastic Flexibility in an Optically Active Naphthalidenimine-Based Single Crystal
  </a> <br> T Feiler, <b>AAL Michalchuk</b>, V Schroder, E List-Kratochvil, F Emmerling, and B Bhattacharya. 2021, Crystals, 11, 1397
 
-34. <a href="https://internal-journal.frontiersin.org/articles/10.3389/fchem.2021.685789/full">Tribochemistry, mechanical alloying, mechanochemistry: what is in a name? </a> <br> <b>AAL Michalchuk</b>, EV Boldyreva, AM Belenguer, F Emmerling, and VV Boldyrev. 2021, Front. Chem., 9, 685789
+33. <a href="https://internal-journal.frontiersin.org/articles/10.3389/fchem.2021.685789/full">Tribochemistry, mechanical alloying, mechanochemistry: what is in a name? </a> <br> <b>AAL Michalchuk</b>, EV Boldyreva, AM Belenguer, F Emmerling, and VV Boldyrev. 2021, Front. Chem., 9, 685789
 
-33. <a href="https://aip.scitation.org/doi/full/10.1063/5.0036927">Predicting the impact sensitivities of energetic materials through zone-center phonon up-pumping </a> <br> <b>AAL Michalchuk</b>, J Hemingway, and CA Morrison. 2021, J. Chem. Phys., 154, 064105
+32. <a href="https://aip.scitation.org/doi/full/10.1063/5.0036927">Predicting the impact sensitivities of energetic materials through zone-center phonon up-pumping </a> <br> <b>AAL Michalchuk</b>, J Hemingway, and CA Morrison. 2021, J. Chem. Phys., 154, 064105
 
-32. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/ce/d1ce00642h">Tuning the mechanical flexibility of organic molecular crystals by polymorphism for flexible optical waveguides </a> <br> T Feiler, B Bhattacharya, <b>AAL Michalchuk</b>, S-Y Rim, V Schroder, E List-Kratochvil, and F Emmerling. 2021, CrystEngComm, 23, 5815-5825
+31. <a href="https://pubs.rsc.org/en/content/articlehtml/2021/ce/d1ce00642h">Tuning the mechanical flexibility of organic molecular crystals by polymorphism for flexible optical waveguides </a> <br> T Feiler, B Bhattacharya, <b>AAL Michalchuk</b>, S-Y Rim, V Schroder, E List-Kratochvil, and F Emmerling. 2021, CrystEngComm, 23, 5815-5825
 
-31. <a href="https://www.frontiersin.org/articles/10.3389/fchem.2021.726357/full">Towards Computational Screening for New Energetic Molecules: Calculation of Heat of Formation and Determination of Bond Strengths by Local Mode Analysis </a> <br> IL Christopher, <b>AAL Michalchuk</b>, CR Pulham, and CA Morrison. 2021, Front. Chem., 9, 726357
+30. <a href="https://www.frontiersin.org/articles/10.3389/fchem.2021.726357/full">Towards Computational Screening for New Energetic Molecules: Calculation of Heat of Formation and Determination of Bond Strengths by Local Mode Analysis </a> <br> IL Christopher, <b>AAL Michalchuk</b>, CR Pulham, and CA Morrison. 2021, Front. Chem., 9, 726357
 
-30. <a href="https://www.mdpi.com/2073-4352/10/10/889">Mechanochemical Syntheses of Isostructural Luminescent Cocrystals of 9-Anthracenecarboxylic Acid with two Dipyridines Coformers </a> <br> T Feiler, B Bhattacharya, <b>AAL Michalchuk</b>, V Schroder, E List-Kratochvil, and F Emmerling. 2020, Crystals, 10, 889
+29. <a href="https://www.mdpi.com/2073-4352/10/10/889">Mechanochemical Syntheses of Isostructural Luminescent Cocrystals of 9-Anthracenecarboxylic Acid with two Dipyridines Coformers </a> <br> T Feiler, B Bhattacharya, <b>AAL Michalchuk</b>, V Schroder, E List-Kratochvil, and F Emmerling. 2020, Crystals, 10, 889
 
-29. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202001627">A HF Loaded Lewis‐Acidic Aluminium Chlorofluoride for Hydrofluorination Reactions </a> <br> M-C. Karvarec, E Kemnitz, G Scholz, S Rudic, T Braun, C Jager, <b>AAL Michalchuk</b>, and F Emmerling. 2020, Chem. Eur. J., 26, 7314-7322
+28. <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202001627">A HF Loaded Lewis‐Acidic Aluminium Chlorofluoride for Hydrofluorination Reactions </a> <br> M-C. Karvarec, E Kemnitz, G Scholz, S Rudic, T Braun, C Jager, <b>AAL Michalchuk</b>, and F Emmerling. 2020, Chem. Eur. J., 26, 7314-7322
 
-28. <a href="https://www.nature.com/articles/s41598-020-64261-4">The Volumetric Source function: Looking inside van der Waals interactions </a> <br> C Tantardini, <b>AAL Michalchuk</b>, A Samtsevich, C Rota, and AG Kvashnin. 2020, Sci. Reps., 10, 7816
+27. <a href="https://www.nature.com/articles/s41598-020-64261-4">The Volumetric Source function: Looking inside van der Waals interactions </a> <br> C Tantardini, <b>AAL Michalchuk</b>, A Samtsevich, C Rota, and AG Kvashnin. 2020, Sci. Reps., 10, 7816
 
-27. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201914798">A mechanistic perspective on plastically flexible coordination polymers </a> <br> B Bhattacharya, <b>AAL Michalchuk</b>, D Silbernagl, M Rautenberg, T Schmid,  Feiler, K Reimann, A Ghalgaoui, H Sturm, B Paulus, and F Emmerling. 2020, Angew. Chem. Int. Ed., 59, 5557-5561
-
-26. <a href="https://pubs.rsc.org/en/content/articlehtml/2020/cc/d0cc03862h">Tandem X-ray absorption spectroscopy and scattering for in situ time-resolved monitoring of gold nanoparticle mechanosynthesis </a> <br> PFM de Oliveira, <b>AAL Michalchuk</b>, AG Buzanich, R Bienert, RM Torresi, PHC Camargo, and F Emmerling. 2020, Chem. Commun., 56, 10329-10332
+26. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201914798">A mechanistic perspective on plastically flexible coordination polymers </a> <br> B Bhattacharya, <b>AAL Michalchuk</b>, D Silbernagl, M Rautenberg, T Schmid,  Feiler, K Reimann, A Ghalgaoui, H Sturm, B Paulus, and F Emmerling. 2020, Angew. Chem. Int. Ed., 59, 5557-5561
 
 25. <a href="https://pubs.rsc.org/en/content/articlehtml/2020/cc/d0cc03862h">Tandem X-ray absorption spectroscopy and scattering for in situ time-resolved monitoring of gold nanoparticle mechanosynthesis </a> <br> PFM de Oliveira, <b>AAL Michalchuk</b>, AG Buzanich, R Bienert, RM Torresi, PHC Camargo, and F Emmerling. 2020, Chem. Commun., 56, 10329-10332
+
 
 24. <a href="https://pubs.rsc.org/en/content/articlehtml/2020/ce/d0ce00826e">Investigating the role of reducing agents on mechanosynthesis of Au nanoparticles </a> <br> PFM de Oliveira, <b>AAL Michalchuk</b>, J Marquardt, T Feiler, C Prinz, RM Torresi, PHC Camargo, and F Emmerling. 2020, CrystEngComm, 22, 6261-6267
 
