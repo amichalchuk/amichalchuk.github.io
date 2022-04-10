@@ -107,5 +107,5 @@ toc : false
 1. <i>Monitoring mechanochemical processes in situ and in real time</i> in <a href="https://www.elsevier.com/books/nontraditional-activation-methods-in-green-and-sustainable-applications/torok/978-0-12-819009-8">Nontraditional Activation Methods in Green and Sustainable Applications </a> <br>  <b>AAL Michalchuk</b>, A Kabelitz, and F Emmerling. 2021
 2. <a href="https://onlinelibrary.wiley.com/doi/10.1002/9783527823048.ch4-8">In situ methods for monitoring solid-state processes in molecular materials</a> in <a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9783527823048">
 Solid State Development and Processing of Pharmaceutical Molecules: Salts, Cocrystals, and Polymorphism </a> <br>  <b>AAL Michalchuk</b>, A Kabelitz, and F Emmerling. 2021
-
+3. <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780128229712000103?via%3Dihub"> From lattice vibrations to molecular dissociation </a> in Molecular Modeling of the Sensitivities of Energetic Materials.  <b>AAL Michalchuk</b> and CA Morrison, 2022
 
