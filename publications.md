@@ -5,6 +5,8 @@ permalink: /publications/
 toc : false
 ---
 
+42. <a href="[https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270](https://pubs.rsc.org/en/content/articlehtml/2022/ce/d2ce00393g)"> Quantitative reversible one pot interconversion of three crystalline polymorphs by ball mill grinding </a> <br> AM Belenguer, GI Lampronti, <b>AAL Michalchuk</b>, F Emmerling, JKM Sanders. 2022, CrystEngComm, DOI:10.1039/D2CE00393G
+
 41. <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270"> Time-Resolved In Situ Monitoring of Mechanochemical Reactions </a> <br> <b>AAL Michalchuk</b>, F Emmerling. 2022, Angew. Chem. Int. Ed., DOI:10.1002/anie.202117270
 
 40. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/CP/D2CP00832G"> Mechanical stimulation of energetic materials at the nanoscale </a> EK Kosareva, RV Gainutdinov, <b>AAL Michalchuk</b>, IV Ananyev, and NV Muravyev. 2022, Phys. Chem. Chem. Phys., DOI:10.1039/D2CP00832G 
