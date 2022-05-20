@@ -5,6 +5,8 @@ permalink: /publications/
 toc : false
 ---
 
+43. <a href="[https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270](https://scripts.iucr.org/cgi-bin/paper?wu5002)"> Low-frequency lattice vibrations from atomic displacement parameters of α-FOX-7, a high energy density material </a> <br> T Aree, CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 3, DOI:10.1107/S2052520622002700
+
 42. <a href="[https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270](https://pubs.rsc.org/en/content/articlehtml/2022/ce/d2ce00393g)"> Quantitative reversible one pot interconversion of three crystalline polymorphs by ball mill grinding </a> <br> AM Belenguer, GI Lampronti, <b>AAL Michalchuk</b>, F Emmerling, JKM Sanders. 2022, CrystEngComm, DOI:10.1039/D2CE00393G
 
 41. <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270"> Time-Resolved In Situ Monitoring of Mechanochemical Reactions </a> <br> <b>AAL Michalchuk</b>, F Emmerling. 2022, Angew. Chem. Int. Ed., DOI:10.1002/anie.202117270
