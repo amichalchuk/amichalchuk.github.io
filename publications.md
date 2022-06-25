@@ -5,7 +5,11 @@ permalink: /publications/
 toc : false
 ---
 
-44. <a href="https://chemrxiv.org/engage/chemrxiv/article-details/627d278a6b12b6fe066fb1f2"> The origin of delayed polymorphism in molecular crystals under mechanochemical conditions </a>  K Linberg, P Szymoniak, A Schoenhals, F Emmerling, and <b> AAL Michalchuk </b>, 2022 ChemRxiv DOI:10.26434/chemrxiv-2022-04jdf
+45. <a href="https://chemrxiv.org/engage/chemrxiv/article-details/627d278a6b12b6fe066fb1f2"> The origin of delayed polymorphism in molecular crystals under mechanochemical conditions </a>  K Linberg, P Szymoniak, A Schoenhals, F Emmerling, and <b> AAL Michalchuk </b>, 2022 ChemRxiv DOI:10.26434/chemrxiv-2022-04jdf
+
+
+
+44. <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/FD/D2FD00115B" > K Linberg, B Roeder, D Al-Sabbagh, F Emmerling, and <b> AAL Michalchuk </b>, Faraday Discuss. accepted. DOI:  10.1039/D2FD00115B
 
 43. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520622002700"> Low-frequency lattice vibrations from atomic displacement parameters of α-FOX-7, a high energy density material </a> <br> T Aree, CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 3, DOI:10.1107/S2052520622002700
 
