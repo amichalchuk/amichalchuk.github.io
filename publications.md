@@ -9,7 +9,7 @@ toc : false
 
 
 
-44. <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/FD/D2FD00115B" > K Linberg, B Roeder, D Al-Sabbagh, F Emmerling, and <b> AAL Michalchuk </b>, Faraday Discuss. accepted. DOI:  10.1039/D2FD00115B
+44. <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/FD/D2FD00115B" > Thermal control of mechanochemical polymorphism in organic cocrystals	 </a> K Linberg, B Roeder, D Al-Sabbagh, F Emmerling, and <b> AAL Michalchuk </b>, Faraday Discuss. accepted. DOI:  10.1039/D2FD00115B
 
 43. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520622002700"> Low-frequency lattice vibrations from atomic displacement parameters of α-FOX-7, a high energy density material </a> <br> T Aree, CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 3, DOI:10.1107/S2052520622002700
 
