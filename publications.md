@@ -5,9 +5,11 @@ permalink: /publications/
 toc : false
 ---
 
-43. <a href="[https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270](https://scripts.iucr.org/cgi-bin/paper?wu5002)"> Low-frequency lattice vibrations from atomic displacement parameters of α-FOX-7, a high energy density material </a> <br> T Aree, CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 3, DOI:10.1107/S2052520622002700
+44. <a href="https://chemrxiv.org/engage/chemrxiv/article-details/627d278a6b12b6fe066fb1f2"> The origin of delayed polymorphism in molecular crystals under mechanochemical conditions </a>  K Linberg, P Szymoniak, A Schoenhals, F Emmerling, and <b> AAL Michalchuk </b>, 2022 ChemRxiv DOI:10.26434/chemrxiv-2022-04jdf
 
-42. <a href="[https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270](https://pubs.rsc.org/en/content/articlehtml/2022/ce/d2ce00393g)"> Quantitative reversible one pot interconversion of three crystalline polymorphs by ball mill grinding </a> <br> AM Belenguer, GI Lampronti, <b>AAL Michalchuk</b>, F Emmerling, JKM Sanders. 2022, CrystEngComm, DOI:10.1039/D2CE00393G
+43. <a href="https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2052520622002700"> Low-frequency lattice vibrations from atomic displacement parameters of α-FOX-7, a high energy density material </a> <br> T Aree, CJ McMonagle, <b>AAL Michalchuk</b>, and D Chernyshov. 2022, Acta. Cryst. B, 78, 3, DOI:10.1107/S2052520622002700
+
+42. <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/CE/D2CE00393G"> Quantitative reversible one pot interconversion of three crystalline polymorphs by ball mill grinding </a> <br> AM Belenguer, GI Lampronti, <b>AAL Michalchuk</b>, F Emmerling, JKM Sanders. 2022, CrystEngComm, DOI:10.1039/D2CE00393G
 
 41. <a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202117270"> Time-Resolved In Situ Monitoring of Mechanochemical Reactions </a> <br> <b>AAL Michalchuk</b>, F Emmerling. 2022, Angew. Chem. Int. Ed., DOI:10.1002/anie.202117270
 
