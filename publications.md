@@ -8,6 +8,10 @@ toc : false
 45. <a href="https://chemrxiv.org/engage/chemrxiv/article-details/627d278a6b12b6fe066fb1f2"> The origin of delayed polymorphism in molecular crystals under mechanochemical conditions </a>  K Linberg, P Szymoniak, A Schoenhals, F Emmerling, and <b> AAL Michalchuk </b>, 2022 ChemRxiv DOI:10.26434/chemrxiv-2022-04jdf
 
 
+46. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00112h"> The Mechanochemical Excitation of Crystalline LiN3 </a> <b> AAL Michalchuk </b> Faraday Discuss. accept DOI: 10.1039/D2FD00112H
+
+45. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/fd/d2fd00104g" > Accurate extrinsic and intrinsic peak broadening modeling for time-resolved in situ ball milling reactions via synchrotron powder X-ray diffraction </a> PP Mazzeo, GI Lampronti, <b> AAL Michalchuk </b>, AM Belenguer, A Bacchi, and F Emmerling, Farday Discuss. accept. DOI:  10.1039/D2FD00104G
+
 
 44. <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2022/FD/D2FD00115B" > Thermal control of mechanochemical polymorphism in organic cocrystals	 </a> K Linberg, B Roeder, D Al-Sabbagh, F Emmerling, and <b> AAL Michalchuk </b>, Faraday Discuss. accepted. DOI:  10.1039/D2FD00115B
 
